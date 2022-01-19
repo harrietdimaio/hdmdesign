@@ -1,2 +1,2 @@
 # hdmdesign
-Code for Harriet Di Maio's website
+Test code for Harriet Di Maio's website, hdmdesign.co.nz
